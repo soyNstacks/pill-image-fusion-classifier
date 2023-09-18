@@ -1,6 +1,7 @@
-# pill-image-fusion-classifier
+# pill-image-fusion-classifier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soyNstacks/pill-image-fusion-classifier/blob/main/final_implementation.ipynb)
 
 This repository contains the official submission of the author for their final year project (BSc in Computer Science, UoL). 
+
 
 ## In This Repository
 - [classed_dataset](https://github.com/soyNstacks/pill-image-fusion-classifier/classed_dataset.zip): Contains image samples in folders arranged according to their respective classes (NDC); top 40 classes with highest sample counts extracted from [ePillID-benchmark](https://github.com/usuyama/ePillID-benchmark/releases) 
