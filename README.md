@@ -1,4 +1,6 @@
-# pill-image-fusion-classifier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soyNstacks/pill-image-fusion-classifier/blob/main/final_implementation.ipynb)
+# pill-image-fusion-classifier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soyNstacks/pill-image-fusion-classifier/blob/main/final_implementation.ipynb) 
+
+[Download model on HuggingFace](https://huggingface.co/soyNstacks/pill-image-fusion-classifier/tree/main)
 
 This repository contains the official submission of the author for their final year project (BSc in Computer Science, UoL). 
 
