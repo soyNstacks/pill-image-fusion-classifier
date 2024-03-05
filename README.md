@@ -35,4 +35,5 @@ The main objective of the project is the encompassment of a multi-input fine-tun
 
 
 ## Final Model Workflow
-![Fusion Model Illustration](https://github.com/soyNstacks/pill-image-fusion-classifier/assets/84957027/911f1739-2b18-49e6-99f1-e5e88d318669)
+![Fusion Model Illustration](https://github.com/soyNstacks/pill-image-fusion-classifier/assets/84957027/82c73f3a-c8be-43f5-b5d4-69468effd08e)
+
